@@ -8,6 +8,7 @@
 6. Comiteamos los archivos usando el comando **git commit -m "comentario"**.
 7. Subimos nuestro repositorio local a Git Hub utilizando **git push origin main**.
 8. **Nuestro repositioro estara creado y listo para ser utilizado.**.
+9. Si luego realizamos cambios en los archivos ya creados se debe utilizar el comando **git push** para actualizar los cambios.
 
 ## Otras configuraciones adicionales
 - git config --global user.name "name"

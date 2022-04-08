@@ -1,7 +1,7 @@
 ## Pasos para generar nuestro repositorio de notas en GitHub
 
 1. Crear un repositorio nuevo en git hub con el nombre "NotasProgramacion". Seleccionando la opcion de crear archivo README.
-2. Hacer una copia para tenerlo de forma local en nuestra maquina. Copiamos en enlace y creamos el repositorio usando el comando **git clone**.
+2. Hacer una copia para tenerlo de forma local en nuestra maquina. Copiamos el enlace y creamos el repositorio usando el comando **git clone**.
 3. Seteamos por defecto para trabajar en la rama main con el comando **git config --global init.defaultBranch main**
 4. Creamos dos archivos de nombre CrearRepositorio.md y notasJavaScrpit.js utilizando el comando **touch**.
 5. Pasamos a stage a los archivos utilizando el comando **git add**.
